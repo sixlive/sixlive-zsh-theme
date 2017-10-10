@@ -34,7 +34,7 @@ I've included my iTerm colors scheme.
 
 ## Font
 
-I'm using [sauce code pro](https://github.com/powerline/fonts) w/ powerline support.
+I'm using [Source Code Pro](https://github.com/powerline/fonts/tree/master/SourceCodePro) w/ powerline support.
 
 ## Contributing
 
