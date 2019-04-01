@@ -4,7 +4,7 @@ This theme has a unique directory listing. When inside a Git project, the direct
 
 ## Preview
 
-![Theme Screenshot](assets/screenshot.png)
+![Theme Screenshot](.docs/example.gif)
 
 ## Installation
 
